@@ -1,0 +1,19 @@
+{
+    "app_name": "PyBlackBOX - Free GUI 2",
+    "custom_title_bar": true,
+    "startup_size": [
+        1400,
+        800
+    ],
+    "minimum_size": [
+        960,
+        540
+    ],
+    "left_menu": {
+        "color": "#FF000000",
+        "color_hover": "#151617",
+        "color_pressed": "#ACE500",
+        "icon_color": "#E6E6E6",
+        "icon_color_pressed": "#151617"
+    }
+}

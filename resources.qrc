@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="images_svg">
+    <file>images/images_svg/logo_home.svg</file>
+    <file>images/images_svg/logo_symbol_top.svg</file>
+    <file>images/images_svg/text_logo.svg</file>
+  </qresource>
+  <qresource prefix="icons_svg">
+    <file>images/icons_svg/icon_busy.svg</file>
+    <file>images/icons_svg/icon_idle.svg</file>
+    <file>images/icons_svg/icon_invisible.svg</file>
+    <file>images/icons_svg/icon_online.svg</file>
+    <file>images/icons_svg/icon_search.svg</file>
+    <file>images/icons_svg/icon_add_user.svg</file>
+    <file>images/icons_svg/icon_attachment.svg</file>
+    <file>images/icons_svg/icon_close.svg</file>
+    <file>images/icons_svg/icon_emoticons.svg</file>
+    <file>images/icons_svg/icon_maximize.svg</file>
+    <file>images/icons_svg/icon_minimize.svg</file>
+    <file>images/icons_svg/icon_more_options.svg</file>
+    <file>images/icons_svg/icon_restore.svg</file>
+    <file>images/icons_svg/icon_send.svg</file>
+    <file>images/icons_svg/icon_settings.svg</file>
+    <file>images/icons_svg/icon_signal.svg</file>
+  </qresource>
+  <qresource prefix="users">
+    <file>images/users/cat.png</file>
+    <file>images/users/cat_150px.png</file>
+    <file>images/users/me.png</file>
+    <file>images/users/me_150px.png</file>
+    <file>images/users/mouse.png</file>
+    <file>images/users/mouse_150px.png</file>
+  </qresource>
+</RCC>
